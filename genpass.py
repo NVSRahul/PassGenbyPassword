@@ -381,7 +381,8 @@ class GenPass:
         self.choice = int(input("which kind of password gen do you want (basic_genpass = 1, random_basic_genpass = 2, "
                                 "random_required_len_genpass = 3, own_basic_genpass = 4, own_random_basic_genpass = "
                                 "5, own_random_required_len_basic_genpass = 6, required_len_advanced_genpass = 7, "
-                                "random_required_len_advanced_genpass = 8, own_required_len_advanced_genpass = 9): "))
+                                "random_required_len_advanced_genpass = 8, own_required_len_advanced_genpass = 9, "
+                                "own_random_required_len_advanced_genpass = 10): "))
         if self.choice == 1:
             GenPass.basic_genpass(self)
         elif self.choice == 2:
