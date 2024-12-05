@@ -6,4 +6,4 @@ In this you can change the dictionary assigned value as your wish with your own 
 This is easy to use and kind of fun 
 In this project you can find out 10 different variants of passwords genearator 
 You can use any of there for your convenient 
-But I recommend you to use the advanced_genpass of any kind means randomly generated or orderly generated password 
+But I recommend you to use the advanced_genpass of any kind means randomly generated or orderly generated password.
